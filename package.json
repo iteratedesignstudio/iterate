@@ -1,0 +1,25 @@
+{
+  "name": "iterate",
+  "version": "1.0.0",
+  "description": "iterate website and web app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iteratedesignstudio/iterate.git"
+  },
+  "author": "Mark Tausch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iteratedesignstudio/iterate/issues"
+  },
+  "homepage": "https://github.com/iteratedesignstudio/iterate#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
